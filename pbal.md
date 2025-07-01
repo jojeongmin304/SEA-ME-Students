@@ -7,4 +7,4 @@
 ## Slack ID: jojeongmin304@naver.com
 ## GitHub ID: jojeongmin304
 ## About me: Main : Program, Automotive engineering
-	     Sub: Tennis, Workout, Soccer, Movie	
+##	     Sub: Tennis, Workout, Soccer, Movie	
