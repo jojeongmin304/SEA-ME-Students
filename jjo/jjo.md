@@ -17,4 +17,4 @@
 - [Mod02-Ex00: Smart Pointer](https://github.com/jojeongmin304/SEA-ME_warmup/blob/main/Module02/SmartPointer.cpp)
 - [Mod02-Ex01: Model your own Car](https://github.com/jojeongmin304/SEA-ME_warmup/blob/main/Module02/Model_myCar.cpp)
 - [Mod03-Ex00: Graphical PhoneBook](https://github.com/jojeongmin304/SEA-ME_warmup/tree/main/Module03/Phonebook)
-- [LeetCode: ](https://github.com/jojeongmin304/LeetCode)
+- [LeetCode](https://github.com/jojeongmin304/LeetCode)
