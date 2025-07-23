@@ -13,4 +13,4 @@
 - [jojeongmin304/SEA-ME-Students](https://github.com/jojeongmin304/SEA-ME-Students)
 - [LeetCode](https://github.com/jojeongmin304/LeetCode)
 - [Warm-up](https://github.com/jojeongmin304/SEA-ME_warmup)
-- [PiracerAssembly] (https://github.com/jojeongmin304/DES_PiRacer-Assembly/blob/main/PiRacerDocumentation.md)
+- [PiracerAssembly](https://github.com/jojeongmin304/DES_PiRacer-Assembly/blob/main/PiRacerDocumentation.md)
