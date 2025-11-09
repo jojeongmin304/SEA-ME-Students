@@ -7,11 +7,11 @@
 ## Slack ID: jojeongmin304@naver.com
 ## GitHub ID: jojeongmin304
 ## About me: 
-- Main : Program, Automotive engineering
+- Main : Embedded System, Automotive engineering
 - Sub: Tennis, Workout, Soccer, Movie	
 ## Project Links:
-- [jojeongmin304/SEA-ME-Students](https://github.com/jojeongmin304/SEA-ME-Students)
 - [LeetCode](https://github.com/jojeongmin304/LeetCode)
 - [Warm-up](https://github.com/jojeongmin304/SEA-ME_warmup)
-- [PiracerAssembly](https://github.com/jojeongmin304/DES_PiRacer-Assembly/blob/main/PiRacerDocumentation.md)
-- [InstrumentCluster](https://github.com/jojeongmin304/DES_Instrument-Cluster)
+- [DES_PiRacer-Assembly](https://github.com/jojeongmin304/DES_PiRacer-Assembly/blob/main/PiRacerDocumentation.md)
+- [DES_Instrument-Cluster](https://github.com/jojeongmin304/DES_Instrument-Cluster)
+- [DES_Head-Unit](https://github.com/jojeongmin304/DES_Head-Unit/tree/main)
